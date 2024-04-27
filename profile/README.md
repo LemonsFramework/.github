@@ -7,7 +7,7 @@ lemons is split into two parts:
 - [liblemons](https://github.com/LemonsFramework/liblemons) [the native code for parts of the framework like sound, video, etc...]
 - [lemons](https://github.com/LemonsFramework/lemons) [the main library that you're going to include in your project]
 
-also if you haven't noticed yet, this library is hevily unfinished as of now, pull requests and issues are greatly appreciated
+also if you haven't noticed yet, this library is hevily unfinished as of now, so creating pull requests and reporting issues is greatly appreciated
 
 <br/><br/><br/>
 oh, by the way lemons is always spelt lowercase
