@@ -1,4 +1,4 @@
-<img src="../lemons.png" width="100%">
+<img src="https://raw.githubusercontent.com/LemonsFramework/.github/main/lemons.png" width="100%">
 
 lemons is a game framework that's built on haxe that provides.. well what a game framework should, a framework to build your games on
 
